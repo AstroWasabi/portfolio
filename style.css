@@ -408,6 +408,10 @@ article.icon{
     height: 2.5rem;
 }
 
+.placeholder-text{
+    margin-right: 10px;
+}
+
 /* Footer Section */
 
 footer{
